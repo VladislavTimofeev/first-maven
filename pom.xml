@@ -11,6 +11,12 @@
 
     <name>first-maven</name>
 
+    <scm>
+        <connection>scm:git:git@github.com:VladislavTimofeev/first-maven.git</connection>
+        <developerConnection>scm:git:git@github.com:VladislavTimofeev/first-maven.git</developerConnection>
+        <url>https://github.com/VladislavTimofeev/first-maven</url>
+    </scm>
+
     <modules>
         <module>database</module>
         <module>service</module>
