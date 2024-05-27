@@ -1,7 +1,7 @@
-package com.dmdev.web.servlet;
+package com.vlad.web.servlet;
 
-import com.dmdev.service.dto.UserDto;
-import com.dmdev.service.service.UserService;
+import com.vlad.service.dto.UserDto;
+import com.vlad.service.service.UserService;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -10,7 +10,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.util.Optional;
-import java.util.function.Supplier;
 
 @WebServlet("/users")
 public class UserServlet extends HttpServlet {

@@ -1,4 +1,4 @@
-package com.dmdev;
+package com.vlad;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

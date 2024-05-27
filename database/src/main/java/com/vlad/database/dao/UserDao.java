@@ -1,7 +1,7 @@
-package com.dmdev.database.dao;
+package com.vlad.database.dao;
 
 
-import com.dmdev.database.entity.User;
+import com.vlad.database.entity.User;
 
 import java.util.Optional;
 

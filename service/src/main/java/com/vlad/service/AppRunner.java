@@ -1,6 +1,6 @@
-package com.dmdev.service;
+package com.vlad.service;
 
-import com.dmdev.service.service.UserService;
+import com.vlad.service.service.UserService;
 
 public class AppRunner {
 

@@ -1,8 +1,7 @@
-package com.dmdev.service.service;
+package com.vlad.service.service;
 
-import com.dmdev.database.dao.UserDao;
-import com.dmdev.database.entity.User;
-import com.dmdev.service.dto.UserDto;
+import com.vlad.database.dao.UserDao;
+import com.vlad.service.dto.UserDto;
 
 import java.util.Optional;
 
